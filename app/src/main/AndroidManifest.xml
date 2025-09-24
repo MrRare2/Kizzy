@@ -97,7 +97,7 @@
         </service>
         <service
             android:name="com.my.kizzy.feature_rpc_base.services.CustomRpcService"
-            android:exported="false" >
+            android:exported="true" >
         </service>
 
         <service
